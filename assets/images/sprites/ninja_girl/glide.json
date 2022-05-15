@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "glide.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1010,
+				"h": 2370
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Glide_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 505,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 0,
+						"y": 474,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 505,
+						"y": 474,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 0,
+						"y": 948,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 505,
+						"y": 948,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 0,
+						"y": 1422,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 505,
+						"y": 1422,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 0,
+						"y": 1896,
+						"w": 505,
+						"h": 474
+					}
+				},
+				{
+					"filename": "Glide_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 474
+					},
+					"frame": {
+						"x": 505,
+						"y": 1896,
+						"w": 505,
+						"h": 474
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1702a263d87a40f91ba7b8d262d4cd43:ad9b76ccdacc3815b761839f55ece40e:0dd2b6a47d0b36c44a6b42b962da99d9$"
+	}
+}

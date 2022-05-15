@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "melee.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1701,
+				"h": 1668
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Melee (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (2).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (3).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (4).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (5).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (6).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (7).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Melee (8).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4bdb27f9ba38b88e130e5ff2bf11005e:ffcc8cc730f93c3cce2fa81fa95d3450:b2616a1163174c4df8dadcd17897f44a$"
+	}
+}

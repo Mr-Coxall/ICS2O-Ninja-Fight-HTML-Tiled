@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "slide.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1701,
+				"h": 2224
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Slide (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (2).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (3).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (4).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (5).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (6).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (7).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (8).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (9).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "Slide (10).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 1668,
+						"w": 567,
+						"h": 556
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:12e59df70d1e591542ed4d50a48295f6:b8dd775b92028ca93195f3624a65bb63:d494a9241d15f16efdbc8c6c299f47cd$"
+	}
+}

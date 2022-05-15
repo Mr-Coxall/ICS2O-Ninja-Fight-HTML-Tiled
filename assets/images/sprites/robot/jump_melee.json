@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "jump_melee.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1701,
+				"h": 1668
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "JumpMelee (1).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (2).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (3).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (4).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (5).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (6).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 1134,
+						"y": 556,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (7).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 0,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				},
+				{
+					"filename": "JumpMelee (8).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 567,
+						"h": 556
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 567,
+						"h": 556
+					},
+					"frame": {
+						"x": 567,
+						"y": 1112,
+						"w": 567,
+						"h": 556
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5728418d0a97bc2b4c1f7b891436c3a:72f5a83fc1f4e5704d5a02e0f8672b13:aa654e2fc8139af393ac57054221c97e$"
+	}
+}
